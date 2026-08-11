@@ -1,0 +1,6 @@
+{
+  "name": "MindSync AI - Realtime Mood & GAS Sheet",
+  "description": "Personal AI-powered mental health tracking with real-time Google Sheets & Apps Script synchronization, somatic logging, and weekly neuro-emotional trend analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
